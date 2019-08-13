@@ -1,0 +1,36 @@
+a
+b
+aaa
+aba
+aaaaaaaaaaaaaaaa
+ab
+abbbbbbbb
+aaaaaaaaaaaab
+aaabb
+abcd
+aaaabbbc
+abc
+abbccc
+###
+####
+####?
+###?
+###!!?
+!*!*!*!!?
+wwxxyyzz
+wxyz
+wwwwxxyyzz
+wwwwyyzzzz
+wwxxxyyzzz
+wwxxyyyyyyyyzz
+wwwwxxxxxxyyyyyyyyzzzzzzzzzz
+.any string with leading and trailing periods is legal.
+!*.so is this.
+.but not this..
+.next string is blank.
+
+####!*aa
+####**.string    .
+!a
+*ab
+!a!b
